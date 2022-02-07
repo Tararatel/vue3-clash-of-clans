@@ -1,13 +1,5 @@
-export const process = {
-  dev: false,
-};
-
-export const site = {
-  home: process.dev ? 'http://localhost:8080/' : 'http://trololo.ololo/',
-};
-
 export const app = {
-  title: 'Template',
+  title: 'Clash of Clans',
 };
 
 export const links = [
